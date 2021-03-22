@@ -88,9 +88,9 @@ class Heart extends StatelessWidget {
                   width: 380,
                   height: 80,
                   decoration: BoxDecoration(
-                      gradient: LinearGradient(
-                        colors: [Color(0xff471a91), Color(0xff3cabff)],
-                      ),
+                      // gradient: LinearGradient(
+                      //   colors: [Color(0xff471a91), Color(0xff3cabff)],
+                      // ),
                       borderRadius: BorderRadius.circular(10)),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
